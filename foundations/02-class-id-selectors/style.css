@@ -1,0 +1,19 @@
+.num {
+    background: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#IdNum {
+    color: blue;
+    font-size: 36px;
+}
+
+.num.cooler {
+    font-size: 24px;
+}
+
+#IdNum2 {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
